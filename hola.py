@@ -1,1 +1,2 @@
-int )
+print("Hola mundo")
+
